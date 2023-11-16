@@ -1,0 +1,15 @@
+.tab,
+.thead,
+.tabhead,
+.tabbody {
+  width: 750px;
+  border: 1px solid;
+  /* border-collapse: collapse; */
+}
+
+.EditForm {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 150px;
+}
